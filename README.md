@@ -1,2 +1,2 @@
 # ipcs
-IPCam-Scanner Versi 2
+Insecure IPCam-Scanner Versi 2
