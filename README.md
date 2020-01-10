@@ -1,2 +1,2 @@
-# ipscan
-insecure CCTV IP scanner 
+# ipcs
+IPCam-Scanner Versi 2
